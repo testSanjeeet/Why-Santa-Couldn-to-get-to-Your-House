@@ -1,5 +1,5 @@
 # Why Santa Couldn't get to Your House
-One-Player 2-D Obstacle Jumping Game Using DE1-SoC board (Verilog)
+One-Player 2-D Obstacle Jumping Game (Verilog)
 
 - Created a one player obstacle-jumping game using an Altera DE1-SoC board
 - Implemented physical jump model to the character
